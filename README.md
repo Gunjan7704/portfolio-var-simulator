@@ -38,7 +38,7 @@ portfolio-var-simulator/
 ### Installation
 
 ```bash
-git clone https://github.com/gunjanmoradiya/portfolio-var-simulator.git
+git clone https://github.com/Gunjan7704/portfolio-var-simulator.git
 cd portfolio-var-simulator
 python -m venv .venv
 source .venv/bin/activate    # Windows: .venv\Scripts\activate
