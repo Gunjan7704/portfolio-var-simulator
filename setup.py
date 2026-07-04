@@ -8,7 +8,7 @@ setup(
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="Gunjan Moradiya",
-    url="https://github.com/gunjanmoradiya/portfolio-var-simulator",
+    url="https://github.com/Gunjan7704/portfolio-var-simulator",
     packages=find_packages(),
     install_requires=[
         "streamlit>=1.28.0",
